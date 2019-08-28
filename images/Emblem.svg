@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70mm"
+   height="70mm"
+   viewBox="90 60 248.03149 248.03149"
+   sodipodi:docname="Emblem.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <linearGradient
+       id="linearGradient4157"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop4159" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1076"
+     inkscape:window-height="312"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="2.931677"
+     inkscape:cx="138.99089"
+     inkscape:cy="46.021914"
+     inkscape:window-x="1920"
+     inkscape:window-y="1604"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     units="mm"
+     width="70mm" />
+  <path
+     d="m 208.93602,62.368834 c -52.86678,79.628316 -70.6976,160.710866 -76.87279,244.230226 34.28234,-43.74437 64.45722,-72.41852 86.62301,-85.73782 24.4726,-14.70546 45.54962,8.55446 66.26302,65.9808 C 271.20538,211.90229 261.70184,138.56729 208.93602,62.368834 Z"
+     style="stroke:#000000;stroke-width:0.411;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill:none;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path4"
+     inkscape:connector-curvature="0" />
+</svg>
